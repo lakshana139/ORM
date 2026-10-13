@@ -63,7 +63,7 @@ admin.site.register(customer,customerAdmin)
 
 
 ## OUTPUT
-c:\Users\acer\Pictures\Screenshots\Screenshot (8).png
+c:\Users\acer\Screenshot (9).png
 
 
 ## RESULT
