@@ -63,8 +63,7 @@ admin.site.register(customer,customerAdmin)
 
 
 ## OUTPUT
-c:\Users\acer\Screenshot (9).png
 
-
+![alt text](<Screenshot (8).png>)
 ## RESULT
 Thus the program for creating Online Food Delivery Database using ORM hass been executed successfully
